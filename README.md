@@ -2,7 +2,7 @@
 
 Predicting the Quality of Red Wine using Machine Learning Algorithms for Regression Analysis, Data Visualizations and Data Analysis.
 
-Dataset
+Datasets
 
 The Red Wine Quality dataset contains information about various physicochemical properties of wines.
 
